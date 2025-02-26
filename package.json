@@ -1,9 +1,9 @@
 {
-  "name": "zalando-tech-radar",
+  "name": "don-tech-radar",
   "version": "2024.1.0",
-  "description": "Visualizing our technology choices",
-  "homepage": "https://github.com/zalando/tech-radar#readme",
-  "repository": "https://github.com/zalando/tech-radar.git",
+  "description": "Tech Radar voor developer.overheid.nl",
+  "homepage": "https://github.com/developer-overheid-nl/tech-radar#readme",
+  "repository": "https://github.com/developer-overheid-nl/tech-radar.git",
   "license": "MIT",
   "private": true,
   "directories": {
@@ -20,5 +20,6 @@
     "lint": "npm run lint:js && npm run lint:html",
     "lint:js": "eslint docs/*.js",
     "lint:html": "eslint docs/*.html"
-  }
+  },
+  "packageManager": "yarn@4.6.0"
 }

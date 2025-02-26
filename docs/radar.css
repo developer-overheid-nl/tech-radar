@@ -23,3 +23,31 @@ td {
 .hover-underline:hover {
   text-decoration: underline;
 }
+
+hgroup {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+}
+hgroup h2, hgroup p {
+  margin-block-end: 0;
+}
+.ring {
+  display: inline-block;
+  padding: 5px;
+}
+.ring-0 {
+  background-color: #6AA549;
+}
+.ring-1 {
+  background-color: #66AFDD;
+}
+.ring-2 {
+  background-color: #ffb612;
+}
+.ring-3 {
+  background-color: #DF6056;
+}
+:target {
+  border-block-end: 2px solid black;
+}

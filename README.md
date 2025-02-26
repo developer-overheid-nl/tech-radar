@@ -1,9 +1,6 @@
-# Motivation
+# Wat is this?
 
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
-by ThoughtWorks](https://www.thoughtworks.com/radar).
+This is a POC for a Tech Radar at Developer.overheid.nl.
 
 This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
@@ -15,7 +12,7 @@ Feel free to use and adapt it for your own purposes.
 
 ```html
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://zalando.github.io/tech-radar/release/radar-0.11.js"></script>
+<script src="radar.js"></script>
 ```
 
 2. insert an empty `svg` tag:
