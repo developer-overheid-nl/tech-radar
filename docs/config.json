@@ -128,6 +128,102 @@
       "active": false,
       "link": "technieken.html#label-4-4",
       "moved": 1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Inleiding NL API Strategie",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie/",
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Architectuur NL API Strategie",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-arch/",
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Gebruikerswensen NL API Strategie",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-wensen/",
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "API Design Rules (ADR)",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Design-Rules/",
+      "moved": 1
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "OpenAPI Specification (OAS)",
+      "active": true,
+      "link": "https://www.openapis.org/",
+      "moved": 1
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "NL GOV OAuth Profiel",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/NL-GOV-OAuth/",
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Digikoppeling REST API Specificatie",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/dk/dkrestapi/",
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "API Geospatial Design Rules",
+      "active": true,
+      "link": "https://logius-standaarden.github.io/API-mod-geospatial/",
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "API Transport Security Module",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-mod-transport-security/",
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "API Access Control Module",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-mod-access-control/",
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "API Naming Conventions Module",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-mod-naming-conventions/",
+      "moved": 1
+    },
+    {
+      "quadrant": 2,
+      "ring": 2,
+      "label": "API Hypermedia Module",
+      "active": true,
+      "link": "https://docs.geostandaarden.nl/api/API-Strategie-mod-hypermedia/",
+      "moved": 1
     }
   ]
 }
